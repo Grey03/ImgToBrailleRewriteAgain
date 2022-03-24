@@ -1,6 +1,5 @@
 # ImgToBrailleRewriteAgain
-Wrote the whole thing again but now its an exe ooooo coolll!!!
-Just run the MainExe or Shortcut to it
+The EXE version will be on my website https://sites.google.com/view/greyeagleson/code
 
 Please only use this for fun, Don't claim it as your own. learn from it if u want I guess
 
